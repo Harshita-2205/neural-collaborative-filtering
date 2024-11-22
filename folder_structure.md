@@ -1,4 +1,4 @@
-neural-collaborative-filtering/
+neural-collaborative-filtering
 │
 ├── README.md                     # Project description and instructions
 ├── requirements.txt              # List of dependencies
