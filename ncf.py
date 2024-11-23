@@ -1,3 +1,51 @@
+"""
+# META DATA - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    Developer Details: 
+        Name: Harshita
+        Role: Developer
+        Code ownership rights: Harshita
+
+    Version:
+        Version: V 1.0.0 (23rd November, 2024)
+            Developer: Harshita
+            Reviewer: 
+            Unit test: 
+            Integration test: 
+
+    Description: Implementation of Neural Collaborative Filtering (NCF) for building recommendation systems. 
+    Combines matrix factorization (Generalized Matrix Factorization - GMF) and deep neural networks 
+    (Multi-Layer Perceptron - MLP) to model user-item interactions.
+
+# TECHNICAL DETAILS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    Programming Language: Python
+    Framework: PyTorch
+    Dependencies: 
+        - Python 3.7+
+        - PyTorch
+        - NumPy
+        - Pandas
+        - Scikit-learn
+        - Matplotlib
+
+# DATA REQUIREMENTS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    Input Data Format: User-item interaction data in CSV or similar tabular formats.
+    Output: Predicted user-item preference scores or Top-N recommendations.
+
+# USAGE INSTRUCTIONS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    For installation, setup, and execution details, refer to the [README.md] file in the project repository.
+
+# VERSION HISTORY - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    Version: 1.0.0
+    Changes: Initial implementation of the Neural Collaborative Filtering (NCF) model.
+    Date: 23rd November, 2024
+
+"""
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
