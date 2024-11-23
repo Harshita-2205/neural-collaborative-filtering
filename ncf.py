@@ -9,9 +9,6 @@
     Version:
         Version: V 1.0.0 (12 October, 2024)
             Developer: Harshita
-            Reviewer: 
-            Unit test: 
-            Integration test: 
 
     Description: Implementation of Neural Collaborative Filtering (NCF) for building recommendation systems. 
     Combines matrix factorization (Generalized Matrix Factorization - GMF) and deep neural networks 
