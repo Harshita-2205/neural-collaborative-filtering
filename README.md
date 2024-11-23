@@ -83,13 +83,15 @@ pip install numpy pandas scikit-learn matplotlib tensorflow  # or pytorch
 
 ## Project Structure
 
-- **`ncf.py`**: Core functions for model building, training, and evaluation.
-- **`train.py`**: Script for training the NCF model.
-- **`evaluate.py`**: Script for evaluating the trained model.
-- **`recommend.py`**: Script for generating recommendations.
-- **`models/`**: Folder for neural network architecture definitions.
-- **`data/`**: Folder for storing input datasets.
-
+```
+neural-collaborative-filtering
+│
+├── README.md                     # Project description and instructions
+├── requirements.txt              # List of dependencies
+├── Code                         
+│   ├── ncf.py                    # NCF model definition
+├── prompts.md                    #prompts to learn concept better
+```
 ---
 
 ## Acknowledgments
