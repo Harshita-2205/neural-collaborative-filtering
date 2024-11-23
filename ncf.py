@@ -7,7 +7,7 @@
         Code ownership rights: Harshita
 
     Version:
-        Version: V 1.0.0 (23rd November, 2024)
+        Version: V 1.0.0 (12 October, 2024)
             Developer: Harshita
             Reviewer: 
             Unit test: 
@@ -42,7 +42,7 @@
 
     Version: 1.0.0
     Changes: Initial implementation of the Neural Collaborative Filtering (NCF) model.
-    Date: 23rd November, 2024
+    Date: 12 October, 2024
 
 """
 
